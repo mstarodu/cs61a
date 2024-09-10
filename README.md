@@ -1,14 +1,14 @@
 Reading
-- [ ] 1 Building Abstractions with Procedures
-- [X] 1.1 The Elements of Programming
-- [ ] 1.1.1 Expression
-- [ ] 1.1.2 Naming and the Environment
-- [ ] 1.1.3 Evaluating Combination
-- [ ] 1.1.4 Compound Procedure
-- [ ] 1.1.5 The Substitution Model for Procedure Applicati
-- [ ] 1.1.6 Conditional Expressions and Predicates
-- [ ] 1.1.7 Example: Square Roots by Newton's Meth
-- [ ] 1.1.8 Procedures as Black-Box Abstractio
+- [x] 1 Building Abstractions with Procedures
+- [x] 1.1 The Elements of Programming
+- [x] 1.1.1 Expression
+- [x] 1.1.2 Naming and the Environment
+- [x] 1.1.3 Evaluating Combination
+- [x] 1.1.4 Compound Procedure
+- [x] 1.1.5 The Substitution Model for Procedure Applicati
+- [x] 1.1.6 Conditional Expressions and Predicates
+- [x] 1.1.7 Example: Square Roots by Newton's Meth
+- [x] 1.1.8 Procedures as Black-Box Abstractio
 - [ ] 1.2 Procedures and the Processes They Generate
 - [ ] 1.2.1 Linear Recursion and Iteration
 - [ ] 1.2.2 Tree Recursion
@@ -21,7 +21,7 @@ Reading
 - [ ] 1.3.2 Constructing Procedures Using Lambda
 - [ ] 1.3.3 Procedures as General Methods
 - [ ] 1.3.4 Procedures as Returned Values
-- [ ] 2 Building Abstractions with Data
+- [ ] 2 Building Abstractions with Data:w
 - [ ] 2.1 Introduction to Data Abstraction
 - [ ] 2.1.1 Example: Arithmetic Operations for Rational Numbers
 - [ ] 2.1.2 Abstraction Barriers
